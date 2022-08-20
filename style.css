@@ -1,0 +1,30 @@
+body
+{
+    background-size: cover;
+}
+
+.Heading
+{
+    font-family: 'Dancing Script', cursive;
+    font-size: 23px;
+}
+
+.Button
+{
+    background-color: rgb(49, 49, 233);
+    font-family: 'Dancing Script', cursive;
+    border-radius: 23px;
+    font-size: 20px;
+    color: black;
+    height: 35pxpx;
+    width: 70px;
+}
+
+canvas
+{
+    background-color: white;
+    border: 5px solid black;
+    border-radius: 28px;
+    box-shadow: 5px 5px 30px black;
+    margin-top: 100px;
+}
